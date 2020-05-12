@@ -37,32 +37,32 @@ Invece, copierà tutti i file di configurazione e le dipendenze transitive (webp
 
 Non è necessario usare sempre ` espulsione ` . Il set di funzionalità curato è adatto per distribuzioni di piccole e medie dimensioni e non dovresti sentirti obbligato a utilizzare questa funzionalità. Tuttavia, comprendiamo che questo strumento non sarebbe utile se non fosse possibile personalizzarlo quando si è pronti.
 
-## Ulteriori informazioni
+## ULearn More
 
 Puoi saperne di più nella [ Crea documentazione dell'app React ] (https://facebook.github.io/create-react-app/docs/getting-started) .
 
 Per conoscere React, consulta la [ Documentazione di React ] (https://reactjs.org/) .
 
-### Divisione del codice
+### Code Splitting
 
 Questa sezione è stata spostata qui: https://facebook.github.io/create-react-app/docs/code-splitting
 
-### Analizzare le dimensioni del pacchetto
-
+### Analyzing the Bundle Size
 Questa sezione è stata spostata qui: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
 
-### Creazione di un'app Web progressiva
+### AMaking a Progressive Web App
 
 Questa sezione è stata spostata qui: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
 
-### Configurazione avanzata
+### Advanced Configuration
 
 Questa sezione è stata spostata qui: https://facebook.github.io/create-react-app/docs/advanced-configuration
 
-### Implementazione
+### Deployment
 
 Questa sezione è stata spostata qui: https://facebook.github.io/create-react-app/docs/deployment
 
-### ` npm corsa costruzione ` non riesce a minify 
+### ` npm run build fails to minify'
+ 
 
 Questa sezione è stata spostata qui: https://facebook.github.io/create-react-app/docs/tro troubleshooting#npm - run - build - fails - to - minify

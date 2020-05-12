@@ -4,7 +4,7 @@ Questo progetto è stato avviato con [ Crea app React ] (https://github.com/face
 
 Nella directory del progetto, è possibile eseguire:
 
-### ` asl start` 
+### ` npm start` 
 
 Esegue l'app in modalità di sviluppo. < Br  /> Aprire [ http: // localhost: 3000 ] (http: // localhost: 3000) per visualizzare nel browser.
 
@@ -12,14 +12,14 @@ Esegue l'app in modalità di sviluppo. < Br  /> Aprire [ http: // localhost: 300
 La pagina verrà ricaricata se si apportano modifiche. < Br  /> Si vedrà anche eventuali errori pelucchi nella console.
 
 
-### ` test di altitudine ` 
+### ` npm test ` 
 
 Avvia il test runner nella modalità orologio interattivo. < Br  /> Vedi la sezione su [ l'esecuzione di test ] (https://facebook.github.io/create-react-app/docs/running-tests) per ulteriori informazioni.
 
 
-### ` accumulo run NPM ` 
+### ` npm run build ` 
 
-Costruisce l'applicazione per la produzione al ` accumulo ` cartella. < Br  /> E 'correttamente fasci Reagire in modalità di produzione e ottimizza la build per le migliori prestazioni.
+Costruisce l'applicazione per la produzione al ` build ` cartella. < Br  /> E 'correttamente in modalità di produzione e ottimizza la build per le migliori prestazioni.
 
 
 La build è minimizzata e i nomi dei file includono gli hash. < Br  /> La vostra applicazione è pronto per essere distribuito!
@@ -27,9 +27,9 @@ La build è minimizzata e i nomi dei file includono gli hash. < Br  /> La vostra
 
 Vedi la sezione su [ deployment ] (https://facebook.github.io/create-react-app/docs/deployment) per maggiori informazioni.
 
-### ` espulsione run NPM ` 
+### `npm run eject ` 
 
-** Nota: questa è un'operazione a senso unico. Una volta che hai " espulso " , non puoi tornare indietro! **
+** Nota: questa è un'operazione a senso unico. Una volta che hai " eseguito " , non puoi tornare indietro! **
 
 Se non sei soddisfatto dello strumento di creazione e delle scelte di configurazione, puoi " espellere " in qualsiasi momento. Questo comando rimuoverà la dipendenza dalla singola build dal progetto.
 

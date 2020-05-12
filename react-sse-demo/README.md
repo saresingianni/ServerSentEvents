@@ -37,7 +37,7 @@ Invece, copierà tutti i file di configurazione e le dipendenze transitive (webp
 
 Non è necessario usare sempre ` espulsione ` . Il set di funzionalità curato è adatto per distribuzioni di piccole e medie dimensioni e non dovresti sentirti obbligato a utilizzare questa funzionalità. Tuttavia, comprendiamo che questo strumento non sarebbe utile se non fosse possibile personalizzarlo quando si è pronti.
 
-## ULearn More
+## Learn More
 
 Puoi saperne di più nella [ Crea documentazione dell'app React ] (https://facebook.github.io/create-react-app/docs/getting-started) .
 
